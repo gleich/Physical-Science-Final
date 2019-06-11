@@ -1,0 +1,9 @@
+@font-face {
+    font-family: Swera Regular;
+    src: url(/fonts/Swera_Regular_Demo.otf);
+}
+
+h1 {
+    font-family: Swera Regular;
+    font-size: 200px;
+}
