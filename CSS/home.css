@@ -15,7 +15,7 @@ a {
 
 a:hover
 {
-     color:#FFFFFF;
+     color: #FFFFFF;
      text-decoration:none;
      cursor:pointer;
 }
@@ -23,4 +23,15 @@ a:hover
 button{
   align-items: center;
   margin: 13px;
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: white;
+   color: white;
+   text-align: center;
+   color: #000000;
 }
