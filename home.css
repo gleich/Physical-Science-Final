@@ -7,3 +7,20 @@ h1 {
     font-family: Swera Regular;
     font-size: 250px;
 }
+
+a {
+    color: #000000;
+    text-decoration: none;
+}
+
+a:hover
+{
+     color:#FFFFFF;
+     text-decoration:none;
+     cursor:pointer;
+}
+
+button{
+  align-items: center;
+  margin: 13px;
+}
