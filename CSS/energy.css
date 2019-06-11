@@ -7,3 +7,22 @@ h1 {
     font-family: Swera Regular;
     font-size: 200px;
 }
+
+h2 {
+    font-family: Swera Regular;
+    font-size: 100px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    color: white;
+    text-align: center;
+    color: #000000;
+}
+
+
+.overline { text-decoration: overline; }
