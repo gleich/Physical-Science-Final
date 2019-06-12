@@ -15,7 +15,7 @@ a {
 
 a:hover
 {
-     color: #000000;
+     color: #FFFFFF;
      text-decoration:none;
      cursor:pointer;
 }
@@ -34,8 +34,4 @@ button{
    color: white;
    text-align: center;
    color: #000000;
-}
-
-button:hover{
-    color: #ffffff;
 }
