@@ -46,3 +46,17 @@ button{
 p {
     font-size: 20px;
 }
+
+th {
+  border: 3px solid #5E5E5E;
+}
+
+table {
+  text-align: center;
+  margin: 20px auto;
+}
+
+td {
+  border: 3px solid #5E5E5E;
+  width: 300px;
+}
